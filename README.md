@@ -1,13 +1,6 @@
-Fullstack Developer | React.js, Node.js, Java
-
-Saya adalah seorang Fullstack Developer yang bersemangat dalam membangun aplikasi web yang efisien dan skalabel dari awal hingga akhir. Dengan pengalaman langsung dalam mengembangkan aplikasi CRUD menggunakan React.js untuk antarmuka pengguna yang dinamis dan Node.js (Express.js) untuk membangun RESTful API yang andal.
-
-Keahlian utama saya meliputi:
-◈ Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
-◈ Backend: Node.js, Express.js, Java
-◈ Database: MySQL
-◈ Tools: Git, RESTful APIs
-
-Saat ini, saya sedang aktif memperdalam pengetahuan dalam TypeScript untuk pengembangan yang lebih robust dan mengeksplorasi proses deployment ke cloud menggunakan Docker.
-
-Saya sangat tertarik untuk berkolaborasi dalam proyek web development yang inovatif dan mencari kesempatan untuk bergabung dengan tim yang berpikiran maju. Mari terhubung!
+* 🔭 Saat ini saya sedang mengerjakan aplikasi CRUD menggunakan **React.js** dan **Node.js**.
+* 👯 Saya terbuka untuk berkolaborasi dalam proyek **Web Development** dan **Fullstack**.
+* 🤝 Saya mencari bantuan terkait **optimasi backend tingkat lanjut** dan **desain API**.
+* 🌱 Saat ini saya sedang mendalami **TypeScript** dan eksplorasi *cloud deployment* dengan **Docker**.
+* 💬 Tanya saya tentang **Fullstack Development, JavaScript, atau RESTful API**.
+* ⚡ **Fakta menarik:** Saya mulai belajar pemrograman dengan iseng membuat website HTML sederhana!
