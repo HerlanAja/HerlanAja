@@ -1,6 +1,14 @@
-* 🔭 Saat ini saya sedang mengerjakan aplikasi CRUD menggunakan **React.js** dan **Node.js**.
-* 👯 Saya terbuka untuk berkolaborasi dalam proyek **Web Development** dan **Fullstack**.
-* 🤝 Saya mencari bantuan terkait **optimasi backend tingkat lanjut** dan **desain API**.
-* 🌱 Saat ini saya sedang mendalami **TypeScript** dan eksplorasi *cloud deployment* dengan **Docker**.
-* 💬 Tanya saya tentang **Fullstack Development, JavaScript, atau RESTful API**.
-* ⚡ **Fakta menarik:** Saya mulai belajar pemrograman dengan iseng membuat website HTML sederhana!
+### Hi there, I'm Ujang Herlan 👋
+
+- 🔭 I’m currently working as a **Freelance Fullstack Developer**.
+- 🌱 I’m currently learning **TypeScript** and **Docker**.
+- 👯 I’m looking to collaborate on **Fullstack (React/Node.js)** and **Mobile (Flutter)** projects.
+- 📫 How to reach me: **ujangherlaan@gmail.com**
+- 😄 Pronouns: He/Him
+
+---
+
+🌐 **My Links:**
+
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portofoliouhe.me/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujang-herlan-92a30b273/)
